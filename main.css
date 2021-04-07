@@ -1,0 +1,18 @@
+div {
+  height: 100px;
+  width: 200px;
+}
+
+button {
+  height: 75%;
+  width: 75%;
+  outline: none;
+  margin: 1em;
+  border: solid;
+  border-radius: 2px;
+}
+
+button.current {
+  box-shadow: 0 0 0 2px white,
+              0 0 0 4px black;
+}
