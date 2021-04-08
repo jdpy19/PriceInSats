@@ -10,6 +10,7 @@ button {
   margin: 1em;
   border: solid;
   border-radius: 2px;
+  background-color: #FF9900;
 }
 
 button.current {

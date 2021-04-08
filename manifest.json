@@ -1,12 +1,9 @@
 {
   "name": "Paid In Sats",
   "description": "Denominate prices in sats, instead of dollars.",
-  "version": "0.0",
+  "version": "1.0.0",
   "manifest_version": 3,
-  "background": {
-    "service_worker": "background.js"
-  },
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["activeTab", "scripting"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
@@ -15,6 +12,5 @@
   },
   "icons": {
     "128": "/images/PricedInSatoshis128.png"
-  },
-  "options_page": "options.html"
+  }
 }
