@@ -10,6 +10,5 @@ Google Extension that translates prices in $USD to sats.
 3. Pin Priced In Sats to Chrome 
 4. Go to your favorite site, then use extension
 
-![Example: Think or Swim](https://user-images.githubusercontent.com/7749917/114085725-baf7c280-987f-11eb-98fd-9f9369f8bec5.png)
 ![Example: Opendime](https://user-images.githubusercontent.com/7749917/114085901-fabeaa00-987f-11eb-81c4-ba15e28d1d29.png)
 
