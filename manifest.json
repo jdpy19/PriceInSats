@@ -1,5 +1,5 @@
 {
-  "name": "Paid In Sats",
+  "name": "Priced in Satoshis",
   "description": "Denominate prices in sats, instead of dollars.",
   "version": "1.0.0",
   "manifest_version": 3,
